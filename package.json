@@ -1,0 +1,32 @@
+{
+  "name": "jade_app",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knofler/jade_app.git"
+  },
+  "dependencies":{
+    "express":"*",
+    "jade":"*",
+    "nib":"*",
+    "stylus":"*"
+  },
+  "keywords": [
+    "jade",
+    "nodejs",
+    "nib",
+    "stylus",
+    "express"
+  ],
+  "author": "Rumman Ahmed",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/knofler/jade_app/issues"
+  },
+  "homepage": "https://github.com/knofler/jade_app"
+}
